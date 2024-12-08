@@ -1,5 +1,3 @@
-import string
-
 class WordsFinder: # зададим класс
     def __init__(self, *file_names): # приним. неограни. кол-во и запис. в арг. file_names
         self.file_names = file_names
